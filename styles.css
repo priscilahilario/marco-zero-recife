@@ -1,0 +1,122 @@
+
+div p{
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 15px;
+    color:rgb(9, 44, 170);
+    
+
+.comfortaa-<uniquifier> {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ 
+}
+     
+header, footer {
+    background: none;
+    color: rgb(255, 248, 239);
+    padding: 16px;
+}
+
+.grandstander-<uniquifier> {
+  font-family: "Grandstander", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+
+h2{
+
+    font-family:'Luckiest Guy', sans-serif;
+    font: size 65px;
+    color:rgb(245, 61, 24);
+    font-size: 35px;
+    background:fixed;
+    text-align-last: center;
+    background-color: rgb(255, 241, 223);
+    
+    .luckiest-guy-regular {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+
+
+h1{
+    font-family: 'Grandstander', cursive;
+    font-size: 15px;
+    color: rgb(93, 0, 255);
+    // <uniquifier>: Use a unique and descriptive class name
+    // <weight>: Use a value from 100 to 900
+
+    .grandstander-<uniquifier> {
+     font-family: "Grandstander", cursive;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+}
+}
+
+  
+    
+
+aside nav ul li a {
+    
+    .dm-serif-display-regular {
+        font-family: "DM Serif Display", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        
+      }
+      
+      color:blue;
+      background-color: bisque;
+}
+
+}
+
+
+
+
+h2{
+    font-family:'Luckiest Guy', sans-serif;
+    font: size 65px;
+    color:rgb(245, 61, 24);
+    font-size: 35px;
+    background:fixed;
+    text-align-last: center;
+    background-color: rgb(255, 241, 223);
+    
+    .luckiest-guy-regular {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+
+    }
+
+    h3{
+      font-family: 'Comfortaa', sans-serif;
+      font-size: 15px;
+      color:rgb(9, 44, 170);
+    
+
+    .comfortaa-<uniquifier> {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    }
+  }
+
+    p{
+
+    }
