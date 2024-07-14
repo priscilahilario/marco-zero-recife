@@ -1,122 +1,79 @@
-
-div p{
-    font-family: 'Comfortaa', sans-serif;
-    font-size: 15px;
-    color:rgb(9, 44, 170);
-    
-
-.comfortaa-<uniquifier> {
-  font-family: "Comfortaa", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
- 
-}
-     
-header, footer {
-    background: none;
-    color: rgb(255, 248, 239);
-    padding: 16px;
-}
-
-.grandstander-<uniquifier> {
-  font-family: "Grandstander", cursive;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-}
-
-
-h2{
-
-    font-family:'Luckiest Guy', sans-serif;
-    font: size 65px;
-    color:rgb(245, 61, 24);
-    font-size: 35px;
-    background:fixed;
-    text-align-last: center;
-    background-color: rgb(255, 241, 223);
-    
-    .luckiest-guy-regular {
-        font-family: "Luckiest Guy", cursive;
-        font-weight: 400;
-        font-style: normal;
-      }
-      
+header nav a {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  text-decoration: none;
+  color: blueviolet;
+  background-color: rgb(255, 249, 242);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
 h1{
-    font-family: 'Grandstander', cursive;
-    font-size: 15px;
-    color: rgb(93, 0, 255);
-    // <uniquifier>: Use a unique and descriptive class name
-    // <weight>: Use a value from 100 to 900
-
-    .grandstander-<uniquifier> {
-     font-family: "Grandstander", cursive;
-     font-optical-sizing: auto;
-     font-weight: 400;
-     font-style: normal;
-}
-}
-
-  
-    
-
-aside nav ul li a {
-    
-    .dm-serif-display-regular {
-        font-family: "DM Serif Display", serif;
-        font-weight: 400;
-        font-style: normal;
-        font-size: 20px;
-        
-      }
-      
-      color:blue;
-      background-color: bisque;
-}
-
-}
-
-
-
-
-h2{
-    font-family:'Luckiest Guy', sans-serif;
-    font: size 65px;
-    color:rgb(245, 61, 24);
-    font-size: 35px;
-    background:fixed;
-    text-align-last: center;
-    background-color: rgb(255, 241, 223);
-    
-    .luckiest-guy-regular {
-        font-family: "Luckiest Guy", cursive;
-        font-weight: 400;
-        font-style: normal;
-      }
-      
-
-    }
-
-    h3{
-      font-family: 'Comfortaa', sans-serif;
-      font-size: 15px;
-      color:rgb(9, 44, 170);
-    
-
-    .comfortaa-<uniquifier> {
-    font-family: "Comfortaa", sans-serif;
-    font-optical-sizing: auto;
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 43, 43);
+  background-color:bisque;
+  font-size: 45px;
+  font-family: 'Lilita One', Tahoma, Geneva, Verdana, sans-serif;
+  .lilita-one-regular {
+    font-family: "Lilita One", sans-serif;
     font-weight: 400;
     font-style: normal;
+  }
+}
 
-    }
+h3{
+  justify-content: center;
+  font-family:'Lato', sans-serif;
+  color: black;
+  
+  .lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  font-size: medium;
+  background-color: rgb(151, 234, 255);
+  padding: 16px;
+  color: rgb(0, 0, 0);
+  
+}
+
+img{  
+ align-self: center;
+ margin: 32px;
+  
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  font-family:'Bungee', sans-serif;
+  color: rgb(255, 43, 43);
+  background-color:bisque;
+  .bungee-regular {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
   }
 
-    p{
 
-    }
+section p{
+  justify-content: center;
+  font-family:'Lato', sans-serif;
+  color:rgb(0, 0, 70);
+  background-color: aliceblue;
+  .lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+}
